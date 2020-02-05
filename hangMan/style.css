@@ -1,0 +1,17 @@
+
+#welcomeWindow{
+    position: relative;
+    text-align: center;
+    font-size:5em;
+    text-decoration: solid;
+    color:green;
+   
+}
+.btn{
+    font-size: 2em;
+    background-color: green;
+    color: white;
+}
+body{
+    background-image: url('background.jpg');
+}
